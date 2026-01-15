@@ -8,10 +8,10 @@
 
 **Mayank's first-year project data (F1 Crosses between domestic and wild guppies)**
 
-(Phenotypes of father and F1 generation)[images/Screenshot 2026-01-14 at 5.19.24 PM.png]
+[Phenotypes of father and F1 generation](images/F1phenotypes.png)
 
 **Colormesh analysis of phenotypes**
-(Principal components calculated using colormesh data)[images/Screenshot 2026-01-14 at 5.20.22 PM.png]
+[Principal components calculated using colormesh data](images/colormeshpca.png)
 # Associated Readings
 ## Guppy coloration overview
 **Potter T**, **Arendt J**, **Bassar RD**, **Watson B**, **Bentzen P**, **Travis J**, **Reznick DN**. Female preference for rare males is maintained by indirect selection in Trinidadian guppies. _Science_ 380: 309–312, 2023. doi: [10.1126/science.ade5671](https://doi.org/10.1126/science.ade5671).

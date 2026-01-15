@@ -6,7 +6,7 @@
 5. 20 Apr - Final Presentation
 # Preliminary data
 
-**Mayank's first-year project data (F1 Crosses between domestic and wild guppies)**
+**Crosses between domestic and wild guppies**
 
 ![Phenotypes of father and F1 generation](images/F1phenotypes.png)
 

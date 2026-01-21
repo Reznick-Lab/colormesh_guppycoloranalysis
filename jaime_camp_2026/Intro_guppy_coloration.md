@@ -2,7 +2,7 @@
 Guppies show an extreme degree of polymorphisms in male color pattern, along with highly faithful transmission of color pattern phenotype along a patriline in wild populations. In simpler terms, this means that color patterns are exactly the same between grandfather, father, and offspring generations. *Figure 1* shows the color pattern phenotypes of some male lineages sampled from wild populations (this figure is described more in-depth in @potterFemalePreferenceRare2023). Notice that orange, black, and bluish green color spots occur in the same region of the fish in father, son, and grandson. 
 
 **Figure 1: Male color phenotypes from Potter T, et al. (2023)**
-![Figure 1](colormesh_guppycoloranalysis/images/science.ade5671-f1.jpg)
+![Figure 1](science.ade5671-f1.jpg)
 
 
 `Question 1: Based on the transmission pattern illustrated in Figure 1, would you predict an autosomal or sex-linked mode of inheritance in wild populations of guppies?`

@@ -5,8 +5,8 @@ Guppies show an extreme degree of polymorphisms in male color pattern, along wit
 ![Figure 1](science.ade5671-f1.jpg)
 
 
-`Question 1: Based on the transmission pattern illustrated in Figure 1, would you predict an autosomal or sex-linked mode of inheritance in wild populations of guppies?`
-`Question 2: Guppies have an XY sex chromosome system, meaning that males have heteromorphic sex chromosomes. Based on what you recall about classical genetics, which chromosome would you expect to harbor the genes responsible for determining male color patterns?`
+- Question 1: Based on the transmission pattern illustrated in Figure 1, would you predict an autosomal or sex-linked mode of inheritance in wild populations of guppies?
+- Question 2: Guppies have an XY sex chromosome system, meaning that males have heteromorphic sex chromosomes. Based on what you recall about classical genetics, which chromosome would you expect to harbor the genes responsible for determining male color patterns?
 
 # Colormesh phenotyping 
 Potter et al. (2023) assess color manually by scanning the guppy pictures taken in the field station in Trinidad. For this project, however, we are going to use an unsupervised phenotyping approach, which is capable of producing multidimensional datasets. This unsupervised approach is called colormesh and is described in more detail in https://github.com/Reznick-Lab/Colormesh. 

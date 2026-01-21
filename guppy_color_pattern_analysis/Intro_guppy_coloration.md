@@ -21,7 +21,7 @@ Use the following format for renaming '.jpeg' files and record all filenames in 
 | filename              | num_fish           |
 | --------------------- | ------------------ |
 | 'background_photolabel' | # of fish in a pic |
-Example filenames: wt_b2ylp211Fxylp211M_s1; background = background color of photo (can be black/white), photolabel = green label stuck on the scale in each guppy photo - write down b2 (block id) and crossid information
+Example filenames: wt_b2ylp211Fxylp211M; background = background color of photo (can be black/white), photolabel = green label stuck on the scale in each guppy photo - write down b2 (block id) and crossid information
 
 
 

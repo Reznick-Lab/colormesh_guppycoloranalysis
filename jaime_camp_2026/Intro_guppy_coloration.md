@@ -13,16 +13,15 @@ Potter et al. (2023) assess color manually by scanning the guppy pictures taken 
 Briefly, it requires placing 62 digital landmarks on guppy pictures similar to those illustrated in Figure 1. More details on how to landmark photos for guppy coloration analysis will be posted soon.
 
 
-# Tasks for Jaime
+# Tasks for Jaime and Klarisse
 1) Copy the Sorted_data_jaime folder from Mayank's hard drive
 2) Edit the filenames to match the sample IDs of fish in the pictures
-Use the following format for renaming '.jpeg' files and record all filenames in an excel or google sheet tab
+Use the following format for renaming '.jpeg' files and record all filenames in an Excel or Google Sheet tab
 
 | filename              | num_fish           |
 | --------------------- | ------------------ |
-| 'bg_photolabel_sibid' | # of fish in a pic |
-Example filenames; wt_ylp211Fxylp211M_s1; bg = background of photo (can be black/white), photolabel = green label stuck on the scale displayed in each guppy photo, sibid = sibling id if multiple males are present in a single photo
-
+| 'background_photolabel' | # of fish in a pic |
+Example filenames: wt_b2ylp211Fxylp211M_s1; background = background color of photo (can be black/white), photolabel = green label stuck on the scale in each guppy photo - write down b2 (block id) and crossid information
 
 
 
